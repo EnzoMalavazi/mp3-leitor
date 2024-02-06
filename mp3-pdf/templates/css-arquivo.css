@@ -1,0 +1,46 @@
+body{
+    
+    font: normal 12pt Arial;
+
+}
+
+header{
+    font: normal 20pt Arial 
+
+}
+
+hr {
+    border: 1px solid #000; /* Cor e espessura da linha */
+    margin: 10px 0; /* Margem para espaçamento */
+}
+.upload-container {
+    width: 60%;
+    margin: 20px auto; /* Centraliza a div na tela */
+    padding: 70px;
+    border: 2px solid #000000;
+    text-align: center;
+}
+
+.upload-container {
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+.uploaded-file-icon {
+    font-size: 24px; /* Tamanho do ícone */
+    margin-bottom: 10px; /* Espaçamento abaixo do ícone */
+}
+
+
+
+section{
+
+}
+
+footer{
+
+    text-align: center;
+
+}
